@@ -1,4 +1,5 @@
-#1 Koderski izazov
+# 1 Koderski izazov
+
 Vaš klijent je pronašao razne boje za tekst i pozadinu u uređivaču blokova i vaš dizajner sada želi da dâ otkaz 😱
 
 Vaš zadatak je:

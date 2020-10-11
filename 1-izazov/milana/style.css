@@ -1,0 +1,49 @@
+/**
+ * Themes are responsible for creating the classes that apply the colors
+ * in different contexts. Core blocks use “color” and “background-color” contexts.
+ *
+ * Each color generates the block classname by following pattern:
+ * <code>
+ * .has-{COLOR-SLUG}-color
+ * .has-{COLOR-SLUG}-background-color
+ * </code>
+ */
+.has-dark-green-background-color {
+    background-color: #071e22;
+}
+
+.has-dark-green-color {
+    color:#071e22;
+}
+
+.has-just-green-background-color {
+    background-color: #1d7874;
+}
+
+.has-just-green-color {
+    color:#1d7874;
+}
+
+.has-light-green-background-color {
+    background-color: #679289;
+}
+
+.has-light-green-color {
+    color:#679289;
+}
+
+.has-light-peach-background-color {
+    background-color: #f4c095;
+}
+
+.has-light-peach-color {
+    color:#f4c095;
+}
+
+.has-just-red-background-color {
+    background-color: #ee2e31;
+}
+
+.has-just-red-color {
+    color:#ee2e31;
+}

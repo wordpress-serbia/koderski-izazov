@@ -20,3 +20,4 @@ https://www.facebook.com/groups/wpserbia/permalink/3890779474285230/
 ## Izazov br.2
 
 - Izazov - https://www.facebook.com/groups/wpserbia/permalink/3985518838144626/
+- Rešenje - https://www.facebook.com/groups/wpserbia/permalink/4034468906582952/

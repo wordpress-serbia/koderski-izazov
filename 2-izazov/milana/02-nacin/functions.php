@@ -35,7 +35,7 @@ function twentytwenty_parent_theme_enqueue_styles() {
  * @return string  Returns filtered Read More link
  */
 function twentytwenty_child_the_content_more_link( $more_link_element, $more_link_text ) {
-	$more_link_text = esc_html( 'Go on, if you really must &rarr;', 'twentytwenty-child' );
+	$more_link_text = esc_html__( 'Go on, if you really must &rarr;', 'twentytwenty-child' );
 
 	return '<a href="' . get_permalink( get_the_ID() ) . '#more-' . get_the_ID() . '" class="more-link">' . $more_link_text . '</a>';
 }
